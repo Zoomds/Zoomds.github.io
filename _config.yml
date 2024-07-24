@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Zoom # the main title
 
-tagline: This is Zoom 's blog. # it will display as the sub-title
+tagline: This is Xiao Yunxi 's blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Zoom
+  name: Xiao Yunxi
   email: zoomqaq@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -115,7 +115,7 @@ comments:
     category_id: DIC_kwDOMZucps4ChGrH
     mapping: pathname
     strict: '0'
-    input_position: 'top'
+    input_position: 'bottom'
     lang: 'zh-CN'
     reactions_enabled: '1'
     loading: 'lazy'
@@ -249,7 +249,7 @@ jekyll_compose:
       image:
       category:
       tags:
-      author: Xiao Yunxi
+      author: zoom
       pin: false
       math: true
       mermaid: true
@@ -258,7 +258,7 @@ jekyll_compose:
       image:
       category:
       tags:
-      author: Xiao Yunxi
+      author: zoom
       pin: false
       math: true
       mermaid: true
